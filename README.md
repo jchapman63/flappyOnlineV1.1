@@ -1,2 +1,2 @@
-# flappyOnlineV1.1
-Online flappy bird game
+# flappyOnlineV1
+The first version of Flappy Online, a flappy bird game with a scoreboard built in Django
