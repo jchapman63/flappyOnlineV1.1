@@ -1,1 +1,1 @@
-web: gunicorn 'flappyOnline.wsgi'
+web: gunicorn 'flappy_online.wsgi'
